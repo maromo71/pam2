@@ -6,4 +6,6 @@ void main(List<String> args) {
   print(nome2.runtimeType);
   nome2 = "Tereza";
   print(nome2.runtimeType);
+  nome2 = 60;
+  print(nome2.runtimeType);
 }
